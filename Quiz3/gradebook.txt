@@ -1,0 +1,11 @@
+Midterm 1-10: Midterm 2-15: Final-35: HW-20: Quiz-20
+Ali Veli: 40, 50, 60, 0, 90
+Smith Jones: 80, 50, 60, 50, 80
+R2D2: 10, 60, 60, 45, 91
+Jon Snow: 90, 75, 60, 85, 85
+Natalie Portman: 100, 100, 60, 75, 92
+Padme: 100, 95, 63, 70, 80
+Harrison Ford: 60, 82, 60, 50, 78
+Calamity Jane: 30, 15, 60, 20, 82
+Lucky Luke: 55, 45, 60, 10, 88
+Mister No: 80, 85, 50, 70, 70

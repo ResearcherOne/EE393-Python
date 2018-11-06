@@ -1,0 +1,30 @@
+** Student names and average grades **
+
+Student: Ali Veli - Average: 48.0
+Student: Smith Jones - Average: 64.0
+Student: R2D2 - Average: 53.2
+Student: Jon Snow - Average: 79.0
+Student: Natalie Portman - Average: 85.4
+Student: Padme - Average: 81.6
+Student: Harrison Ford - Average: 66.0
+Student: Calamity Jane - Average: 41.4
+Student: Lucky Luke - Average: 51.6
+Student: Mister No - Average: 71.0
+
+** Max and Min grades of each section **
+
+MT1 max grade: 100
+MT1 min grade: 10
+MT2 max grade: 100
+MT2 min grade: 15
+F max grade: 63
+F min grade: 50
+HW max grade: 85
+HW min grade: 0
+Quiz max grade: 92
+Quiz min grade: 70
+
+** Max and min values of the average scores **
+
+Max average: Natalie Portman - Grade(Average): 85.4
+Min average: Calamity Jane - Grade(Average): 41.4

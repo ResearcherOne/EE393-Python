@@ -21,7 +21,7 @@ while True:
         # If not warn the user and take input again.
         print("All of your input is not an integer!")
         continue
-         
+
 # Divisible number array.
 divisibles = []
 
@@ -34,13 +34,11 @@ for number in numbers:
         # If it is divisible, add to the list.
         divisibles.append(number)
 
-       
+
 # Check if there is a divisible or not.
 if len(divisibles) !=0:
     # If there is a number print result.
     print("The numbers that are divisible by 5 are: " + ",".join(divisibles))
 else:
     # If there is not a number print this.
-    print("None of the numbers are divisible by 5.")    
-        
-   
+    print("None of the numbers are divisible by 5.")
